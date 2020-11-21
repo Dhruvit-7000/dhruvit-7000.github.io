@@ -1,0 +1,4 @@
+[
+  {"name":"Desktop Assistance", "description":"This is my Last Year Project in B.E. Computer Science Engineering. This Project is Created in Python Language. In this i use few Libraries and Packages like Pyttsx3, speech_recognition, os, Smtp, webbrowser,etc. This is basically work as Cortana and Siri but Something is changed in this, that is Sending Email System. My Main DOMAIN is Customer only say to Our Assistance and Complete there work. So that in Case user send some Message to Other than Only Speak 'send email' and then after tell Your Friend email address to send Message."},
+  {"name":"Housing WebSite" , "description":"This is my Angular Project as a Learning Purpose. In this i have Create Services and in that service connect to that server which have i passed a data from the Express server. There is not an any Database there is just Json file. In that Json file stored the Typical Data and fetch the Data."}
+]

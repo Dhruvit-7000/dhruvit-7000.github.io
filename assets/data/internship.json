@@ -1,0 +1,4 @@
+[
+  {"city":"Nadiad", "State":"Gujarat" , "CompanyName":"Edutech Infotech" , "course": "Android" , "description":"I Create a Grocery List App, In this app there is list of items with Price. Customer just Select Multiple Items. And than selected Items,and there Total Price Show in other Page." , "duration":"1 Month", "owner":"Nisrag Jani" , "contact":"9909727302"},
+  {"city":"Nadiad", "State":"Gujarat" , "CompanyName":"Edutech Infotech" , "course": "NodeJs" , "description":"I create WebSite the name is Todo List. In this User enter a data and than below that Form the notes are showen in Proper way. In This web site for Front-End is use AngularJs and for a Back-End is use Node Express Server." , "duration":"1 Month", "owner":"Nisrag Jani" , "contact":"9909727302"}
+]
